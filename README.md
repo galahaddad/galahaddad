@@ -1,7 +1,9 @@
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am <a href="https://galahaddad.tech">Ralph Haddad (@galahaddad)</a></h1>
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Ralph Haddad (@galahaddad)</h1>
 
 <h3>What I do? 👨‍💻</h3>
-I am an honors student at Lehigh University persuing a B.S. in Computer Science Engineering and a B.S. in Finance. Check out my work :)
+I am currently a Software Engineer II at Microsoft. Much of my work currently is based around Azure ML, APIs, and software architecture.
+
+I am an honors alum of '22 at Lehigh University persuing a B.S. in Computer Science Engineering and a B.S. in Finance. Check out my work :)
 <br></br>
 
 [![Visits Badge](https://badges.pufler.dev/visits/galahaddad/galahaddad)](https://badges.pufler.dev)
